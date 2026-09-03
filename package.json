@@ -1,0 +1,23 @@
+{
+  "name": "cse-341-project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preussju/cse-341-project1.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/preussju/cse-341-project1/issues"
+  },
+  "homepage": "https://github.com/preussju/cse-341-project1#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
